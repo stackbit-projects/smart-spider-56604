@@ -40,8 +40,7 @@ sections:
       Whatsapp: [https://wa.link/ydnw3d](https://wa.link/ydnw3dEmail:)
 
     type: section_content
-  - section_id: lorem-ipsum
-    subtitle: >-
+  - subtitle: >-
       ## Lorem ipsum
 
 
