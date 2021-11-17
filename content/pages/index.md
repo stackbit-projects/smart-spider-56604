@@ -40,9 +40,7 @@ sections:
       Whatsapp: [https://wa.link/ydnw3d](https://wa.link/ydnw3dEmail:)
 
     type: section_content
-  - subtitle: |
-      *
-    image_alt: lorem-ipsum
+  - image_alt: lorem-ipsum
     type: section_hero
     image: /images/construction-site.jpg
 seo:
