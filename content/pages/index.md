@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: This is a hero headline.
+    title: Juan Burbano León
     subtitle: '### This is a super-cool hero subhead.'
     image_alt: Author avatar
   - title: Text
