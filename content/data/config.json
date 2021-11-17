@@ -4,7 +4,7 @@
     "favicon": "images/avatar.png",
     "header": {
         "title": "Juan Burbano León",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Generic",
