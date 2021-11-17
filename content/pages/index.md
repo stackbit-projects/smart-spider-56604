@@ -23,11 +23,6 @@ sections:
       SOLCA
       LEVO
     image_alt: test
-  - title: Recent Posts
-    section_id: posts
-    type: section_posts
-    has_more_link: true
-    more_link_text: Read more
   - title: A Cat
     section_id: cat
     type: section_content
