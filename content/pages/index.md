@@ -30,15 +30,16 @@ sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: |+
-      ## Contacto
+    content: |
+      ##
+
+      # Contacto
 
       Teléfono: 0995665662
 
       Email: <juanbleon2@hotmail.com>
 
       Whatsapp: [https://wa.link/ydnw3d](https://wa.link/ydnw3dEmail:)
-
     type: section_content
     image: /images/construction-site.jpg
 seo:
