@@ -4,7 +4,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: Juan Burbano León
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: |
+      ### Ingeniero Civil
     image_alt: Author avatar
   - title: Text
     section_id: intro
