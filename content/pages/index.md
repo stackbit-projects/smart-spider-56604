@@ -30,17 +30,15 @@ sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |+
+      ## Contacto
 
+      Teléfono: 0995665662
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Email: <juanbleon2@hotmail.com>
 
+      Whatsapp: [https://wa.link/ydnw3d](https://wa.link/ydnw3dEmail:)
 
-      - Lorem ipsum
-
-      - dolor sit amet
     type: section_content
 seo:
   title: Stackbit Vanilla Theme
