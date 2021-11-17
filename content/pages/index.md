@@ -23,10 +23,6 @@ sections:
       SOLCA
       LEVO
     image_alt: test
-  - title: A Cat
-    section_id: cat
-    type: section_content
-    image_alt: Geometric pattern
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
