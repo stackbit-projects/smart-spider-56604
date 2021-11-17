@@ -54,6 +54,7 @@ sections:
       - dolor sit amet
     image_alt: lorem-ipsum
     type: section_hero
+    image: /images/construction-site.jpg
 seo:
   title: Stackbit Vanilla Theme
   description: The preview of the Vanilla theme
