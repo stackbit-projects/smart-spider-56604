@@ -5,7 +5,7 @@ sections:
     type: section_hero
     title: Juan Burbano León
     subtitle: |
-      ### Ingeniero Civil
+      ### Ingeniero Civil en Quito Ecuador
     image_alt: Author avatar
   - title: Text
     section_id: intro
