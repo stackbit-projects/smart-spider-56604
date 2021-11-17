@@ -40,17 +40,8 @@ sections:
       Whatsapp: [https://wa.link/ydnw3d](https://wa.link/ydnw3dEmail:)
 
     type: section_content
-  - subtitle: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+  - subtitle: |
+      *
     image_alt: lorem-ipsum
     type: section_hero
     image: /images/construction-site.jpg
