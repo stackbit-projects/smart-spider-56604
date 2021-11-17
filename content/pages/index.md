@@ -40,6 +40,7 @@ sections:
       Whatsapp: [https://wa.link/ydnw3d](https://wa.link/ydnw3dEmail:)
 
     type: section_content
+    image: /images/construction-site.jpg
 seo:
   title: Stackbit Vanilla Theme
   description: The preview of the Vanilla theme
